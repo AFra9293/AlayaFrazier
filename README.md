@@ -8,7 +8,7 @@
 
 
 <h2> Certifications</h2>
-- [Google AI Essentials](file:///C:/Users/alaya/OneDrive/Desktop/Certificate%20Google%20AI%20Essentials.pdf)
+- [Google AI Essentials](https://drive.google.com/file/d/19NkWl5Y4XQAjahHylv9oEdxFnX8-Rbdc/view?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
 
