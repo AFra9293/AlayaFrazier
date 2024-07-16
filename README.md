@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/AFRA9293/LABURL)
 
-  - [Password Strength Checker in Python](https://github.com/AFRA9293/LABURL)
+  - [Password Strength Checker in Python](https://github.com/AFRA9293/Password_Strength_Checker/tree/main)
 
 
 <h2> Certifications</h2>
