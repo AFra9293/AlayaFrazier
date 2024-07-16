@@ -22,10 +22,10 @@
 [<img align="left" alt="Alaya Frazier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
-[youtube]: https://youtube.com/alayafrazier6175
+<h2> [Youtube]: https://youtube.com/@alayafrazier6175 <h2>
 
 
-[linkedin]: https://linkedin.com/in/ACCOUNT NAME
+<h2> [LinkedIn]: https://linkedin.com/in/ACCOUNT NAME <h2>
 
 <!--
 **AFRA9293/AFRA9293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
